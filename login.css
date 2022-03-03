@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+  }
+  
+  body{
+    background-size: cover;
+    background-position: center;
+  }
+  .container{
+    width: 480px;
+    height: 800px;
+    background: black;
+    margin: 12% auto;
+    padding:50px 0;;
+  }
+  .login-register-container{
+    border-radius: 7px;
+    width: 400px;
+    height: 500px;
+    background:  #2E2E34;
+    margin: 12% auto;
+    padding:50px 0;
+    color: #DCDCDC;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .login-register-form{
+    margin-top: 50px;
+  }
+  .form{
+    width: 360px;
+    text-align: left;
+    margin: 20px;
+  }
+  .input-field{
+    border: none;
+    border-radius: 7px;
+    width: 360px;
+    height: 45px;
+    background:  #3B3B45;
+    margin-top: 5px;
+    margin-bottom: 20px;
+  }
+  .sign-in{
+    border: none;
+    border-radius: 7px;
+    width: 360px;
+    height: 45px;
+    background: #F41475;
+    font-family: 'Cantarell', sans-serif;
+    color:black;
+    margin-top: 0px;
+    margin-bottom: 25px;
+  
+  }
+  
