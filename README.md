@@ -14,4 +14,8 @@ Using this repository to store files that are works in progress for a current cl
 
 ![wifeframe](https://user-images.githubusercontent.com/91314936/156920792-1a0a5806-fc12-4e01-a882-f509eef5aaf0.JPG)
 
+🛸 Ready to initialise the project. Will install Next.js, then Material UI dependencies
+
+🛸 Learning about bitbucket and Jira workflows
+
 
