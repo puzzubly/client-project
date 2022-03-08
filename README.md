@@ -18,4 +18,6 @@ Using this repository to store files that are works in progress for a current cl
 
 🛸 Learning about bitbucket and Jira workflows
 
+🛸 Today installed Next.js and Material UI. Having trouble being linked in to the Bit Bucket! Not sure what to upload first there as I haven't started the next ticket which is the login page
+
 
