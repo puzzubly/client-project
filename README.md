@@ -25,5 +25,16 @@ Using this repository to store files that are works in progress for a current cl
 **🛸** Learnt in standup meeting that Login page has been taken over by the back end, using Auth0, have advised that I'll make a wireframe for the dashboard
 
 
+**🛸** Made a wireframe for the Dashboard components using Miro
+
+
+![Dashboard](https://user-images.githubusercontent.com/91314936/157822610-c3a66d21-796d-476f-9e86-5af3efdfa21b.JPG)
+
+**🛸** Able to now connect local machine to Bitbucket
+
+
+![branch2](https://user-images.githubusercontent.com/91314936/157822730-763272db-1dc7-435c-9357-80b7643c3d41.JPG)
+
+
 
 
