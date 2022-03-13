@@ -30,11 +30,14 @@ Using this repository to store files that are works in progress for a current cl
 
 ![Dashboard](https://user-images.githubusercontent.com/91314936/157822610-c3a66d21-796d-476f-9e86-5af3efdfa21b.JPG)
 
-**🛸** Able to now connect local machine to Bitbucket
+**🛸** Able to now map local machine to Bitbucket
 
 
 ![branch2](https://user-images.githubusercontent.com/91314936/157822730-763272db-1dc7-435c-9357-80b7643c3d41.JPG)
 
+**🛸** Project initialised by pushing index.js to Bitbucket with MUI dependencies installed
 
+**🛸** Wireframe of new prototype login page
 
+![login](https://user-images.githubusercontent.com/91314936/158049683-459bb9fd-a21c-4b58-ae06-c3420a5472ef.JPG)
 
