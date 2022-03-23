@@ -58,4 +58,7 @@ Using this repository to store files that are works in progress for a current cl
 
 **🛸** Built a landing page, used Next JS Router and onClick event on button to join to multi step form. 
 
-**🛸** Continuing to style components using MUI, a lot to learn with MUI!
+**🛸** Continuing to style components using MUI... a lot to learn with MUI especially changing the colors!
+
+**🛸** Successful first commit to bitbucket
+
