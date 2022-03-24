@@ -62,3 +62,9 @@ Using this repository to store files that are works in progress for a current cl
 
 **🛸** Successful first commit to bitbucket
 
+**🛸** Pivot to Axios, rebuilt code around Axios so that backend can access data. Set up a fake REST API with JSON server
+
+**🛸** Successful commit to bitbucket with the new code
+
+
+
