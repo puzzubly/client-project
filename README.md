@@ -70,5 +70,43 @@ Using this repository to store files that are works in progress for a current cl
 
 **🛸** Given the URL for Axios by the backend team, inserted into the code and commited to bitbucket
 
+**🛸** Working through an error, trying to connect to the backend proving unsuccessful today
+
+
+![sourceserror](https://user-images.githubusercontent.com/91314936/160225560-899e9045-222f-4ac2-8924-bbf71f98fb0a.PNG)
+
+NB I like the way this person has stated their problem:
+
+Describe the bug
+When making a request to my API, the catch block has a generic "Network Error" message, but when checking in the network inspector the request got a response code 413. This causes my users to incorrectly report that 'the website thinks i dont have a solid internet connection'. I suspect this happens for other codes too because this has been going on for a while.
+
+To Reproduce
+Make a request with a very large payload to trigger a 413 response
+
+Expected behavior
+The catch block should have the response code
+
+Environment
+Axios Version: 0.25.0 and 0.21.2
+Adapter: xhr (i think? i dont remember changing this, so i guess whatever is default?)
+Browser: Chrome
+Browser Version: 97.0.4692.99
+Node.js Version: 14.18.1
+OS: OSX 12.1
+Additional context/Screenshots
+axiosInstance
+    .post("/results/add", {
+      result: completedEvent, //this is very big
+    })
+    .then((response) => {
+      // handle response
+    })
+    .catch((e) => {
+        console.log(e);
+        //this console logs Error: Network Error
+        // at createError (monkeytype.js:formatted:35086:25)
+        // at XMLHttpRequest.handleError (monkeytype.js:formatted:34457:28)
+    });
+
 
 
