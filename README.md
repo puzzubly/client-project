@@ -108,6 +108,13 @@ axiosInstance
         // at XMLHttpRequest.handleError (monkeytype.js:formatted:34457:28)
     });
 
-**🛸** Working on the visual upstyling today, using the client brand tool
+**🛸** Working on the visual upstyling today, using the client brand tool![Uploading snip.PNG…]()
+
 
 **🛸** Refactoring today. Able to paste images with CSS, although trying to get them to the correct position!
+
+![image](https://user-images.githubusercontent.com/91314936/160993644-0d98da04-5458-403b-8807-e8681ff82782.png)
+
+**🛸** Backend guys have got it working, see above
+
+
