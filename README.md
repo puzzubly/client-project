@@ -75,7 +75,6 @@ Using this repository to store files that are works in progress for a current cl
 
 **🛸** Worked on the CSS today:
 
-![form](https://user-images.githubusercontent.com/91314936/161423679-8790440e-bee6-4338-9440-1a8a5f692ced.png)
 ![Farmore1](https://user-images.githubusercontent.com/91314936/161501364-c9057b17-93f7-414c-8409-231ca01f04dc.PNG)
 
 ![Farmore2](https://user-images.githubusercontent.com/91314936/161501374-1828845d-93bf-4cdd-bb7d-42af58fd9316.PNG)
