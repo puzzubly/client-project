@@ -38,8 +38,6 @@ Using this repository to store files that are works in progress for a current cl
 
 **🛸** CSS of new form
 
-![Registration form](https://user-images.githubusercontent.com/91314936/158295180-cbd2d482-9a6f-49e8-881c-7eb210359368.JPG)
-
 **🛸** Wireframe of new form, deciding on multistep features
 
 ![Multistep form](https://user-images.githubusercontent.com/91314936/158545303-91b75bc2-2644-4da8-abca-e6988ba5a844.JPG)
