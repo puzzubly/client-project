@@ -7,10 +7,7 @@ Using this repository to store files that are works in progress for a current cl
 
 ![comparison](https://user-images.githubusercontent.com/91314936/156920915-9f2764c9-2b66-411b-8c4a-b4c918b370c4.JPG)
 
-
-
 **🛸** Made a wireframe for the Login components using Miro
-
 
 ![wifeframe](https://user-images.githubusercontent.com/91314936/156920792-1a0a5806-fc12-4e01-a882-f509eef5aaf0.JPG)
 
@@ -72,42 +69,6 @@ Using this repository to store files that are works in progress for a current cl
 
 **🛸** Working through an error, trying to connect to the backend proving unsuccessful today
 
-
-![sourceserror](https://user-images.githubusercontent.com/91314936/160225560-899e9045-222f-4ac2-8924-bbf71f98fb0a.PNG)
-
-NB I like the way this person has stated their problem:
-
-Describe the bug
-When making a request to my API, the catch block has a generic "Network Error" message, but when checking in the network inspector the request got a response code 413. This causes my users to incorrectly report that 'the website thinks i dont have a solid internet connection'. I suspect this happens for other codes too because this has been going on for a while.
-
-To Reproduce
-Make a request with a very large payload to trigger a 413 response
-
-Expected behavior
-The catch block should have the response code
-
-Environment
-Axios Version: 0.25.0 and 0.21.2
-Adapter: xhr (i think? i dont remember changing this, so i guess whatever is default?)
-Browser: Chrome
-Browser Version: 97.0.4692.99
-Node.js Version: 14.18.1
-OS: OSX 12.1
-Additional context/Screenshots
-axiosInstance
-    .post("/results/add", {
-      result: completedEvent, //this is very big
-    })
-    .then((response) => {
-      // handle response
-    })
-    .catch((e) => {
-        console.log(e);
-        //this console logs Error: Network Error
-        // at createError (monkeytype.js:formatted:35086:25)
-        // at XMLHttpRequest.handleError (monkeytype.js:formatted:34457:28)
-    });
-
 **🛸** Working on the visual upstyling today, using the client brand tool![Uploading snip.PNG…]()
 
 
@@ -119,7 +80,9 @@ axiosInstance
 
 **🛸** Worked on the CSS today:
 
-
 ![form](https://user-images.githubusercontent.com/91314936/161423679-8790440e-bee6-4338-9440-1a8a5f692ced.png)
+![Farmore1](https://user-images.githubusercontent.com/91314936/161501364-c9057b17-93f7-414c-8409-231ca01f04dc.PNG)
 
+![Farmore2](https://user-images.githubusercontent.com/91314936/161501374-1828845d-93bf-4cdd-bb7d-42af58fd9316.PNG)
 
+![Farmore3](https://user-images.githubusercontent.com/91314936/161501384-cd8c5bc7-ba3c-469c-97e0-672914a067e5.PNG)
