@@ -36,9 +36,6 @@ Using this repository to store files that are works in progress for a current cl
 
 **🛸** Wireframe of new prototype registration/login page
 
-![login](https://user-images.githubusercontent.com/91314936/158049683-459bb9fd-a21c-4b58-ae06-c3420a5472ef.JPG)
-
-
 **🛸** CSS of new form
 
 ![Registration form](https://user-images.githubusercontent.com/91314936/158295180-cbd2d482-9a6f-49e8-881c-7eb210359368.JPG)
