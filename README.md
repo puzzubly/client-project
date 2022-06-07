@@ -1,7 +1,7 @@
 # client-project
 Finished Project:
 🚀 Using Next.js / Vanilla CSS and Axios to build a multi page form with a submit button. 
-🚀 During the project, there was a pivot and many iterations as the product was not made clear from the start. It was to start as a login page, and then pivoted to a capture form. 
+🚀 During the project, there was a pivot and many iterations as the product changed: It was to start as a login page, and then pivoted to a capture form. 
 🚀 Below are the steps I took in the project from start to finish...
 
 **🛸** Added some CSS, and a basic App.js file 
