@@ -58,3 +58,5 @@ Finished Project:
 ![Farmore2](https://user-images.githubusercontent.com/91314936/161501374-1828845d-93bf-4cdd-bb7d-42af58fd9316.PNG)
 
 ![Farmore3](https://user-images.githubusercontent.com/91314936/161501384-cd8c5bc7-ba3c-469c-97e0-672914a067e5.PNG)
+
+**🛸** Have made a build version, now working through the bugs trying to deploy. Looking through the Next JS and Netlify documentation for the right commands to deploy successfully
